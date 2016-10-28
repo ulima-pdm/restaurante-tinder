@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/men_me_gusta"
+        android:icon="@drawable/ic_like"
+        android:title="@string/me_gusta"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/men_no_me_gusta"
+        android:icon="@drawable/ic_dislike"
+        android:title="@string/no_me_gusta"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/men_configuracion"
+        android:title="@string/configuraci_n"
+        app:showAsAction="never"/>
+</menu>

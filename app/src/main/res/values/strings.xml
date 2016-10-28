@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ExperienciaUL</string>
+    <string name="me_gusta">Me gusta</string>
+    <string name="no_me_gusta">No me gusta</string>
+    <string name="configuraci_n">Configuración</string>
+    <string name="calificar">Calificar</string>
+    <string name="mapa">Mapa</string>
+</resources>
